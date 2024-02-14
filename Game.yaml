@@ -13,5 +13,5 @@ payload:
 
   - DOMAIN-KEYWORD,nvidia
 
-  - IP-CIDR,101.101.101.101/24
-  - IP-CIDR,8.8.4.4/24
+  - IP-CIDR,101.101.101.101/*
+  - IP-CIDR,8.8.4.4/*
