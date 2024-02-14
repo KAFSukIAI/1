@@ -314,6 +314,18 @@ payload:
 
   - IP-CIDR,1.255.62.0/24,no-resolve
 
+  # > COD
+  - DOMAIN-SUFFIX,ngx.download.nvidia.com
+  - DOMAIN-SUFFIX,101.101.101.101
+  - DOMAIN-SUFFIX,weezyblue-lobby.prod.demonware.net
+  - DOMAIN-SUFFIX,download.nvidia.com
+  - DOMAIN-SUFFIX,jup-steam-loginservice.prod.demonware.net
+  - DOMAIN-SUFFIX,prod.cdni.callofduty.com
+  - DOMAIN-SUFFIX,prod-data-energon.infra-ext.activision.com
+  - DOMAIN-SUFFIX,static.nvidiagrid.net
+  - DOMAIN-SUFFIX,store.cloudflare.steamstatic.com
+  - DOMAIN-SUFFIX,login.live.com.com
+  - DOMAIN-SUFFIX,shared.cloudflare.steamstatic
   # > CN
   - DOMAIN-SUFFIX,gov.cn
   - DOMAIN-SUFFIX,cn
