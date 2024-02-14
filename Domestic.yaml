@@ -316,7 +316,6 @@ payload:
 
   # > COD
   - DOMAIN-SUFFIX,ngx.download.nvidia.com
-  - DOMAIN-SUFFIX,101.101.101.101
   - DOMAIN-SUFFIX,weezyblue-lobby.prod.demonware.net
   - DOMAIN-SUFFIX,download.nvidia.com
   - DOMAIN-SUFFIX,jup-steam-loginservice.prod.demonware.net
@@ -326,8 +325,11 @@ payload:
   - DOMAIN-SUFFIX,store.cloudflare.steamstatic.com
   - DOMAIN-SUFFIX,login.live.com.com
   - DOMAIN-SUFFIX,shared.cloudflare.steamstatic
-  - DOMAIN-SUFFIX,dns.twnic.tw:443
+  - DOMAIN-SUFFIX,dns.twnic.tw
   - DOMAIN-SUFFIX,s.symcb.com
+
+  - IP-CIDR,101.101.101.101/443
+  - IP-CIDR,8.8.4.4/853
   # > CN
   - DOMAIN-SUFFIX,gov.cn
   - DOMAIN-SUFFIX,cn
