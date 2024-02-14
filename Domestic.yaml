@@ -1,15 +1,15 @@
 payload:
  # > COD
-  - DOMAIN-SUFFIX,nvidia.com
-  - DOMAIN-SUFFIX,demonware.net
+  - DOMAIN-SUFFIX,ngx.download.nvidia.com
+  - DOMAIN-SUFFIX,weezyblue-lobby.prod.demonware.net
+  - DOMAIN-SUFFIX,jup-steam-loginservice.prod.demonware.net
   - DOMAIN-SUFFIX,prod.cdni.callofduty.com
-  - DOMAIN-SUFFIX,activision.com
-  - DOMAIN-SUFFIX,nvidiagrid.net
-  - DOMAIN-SUFFIX,steamstatic.com
+  - DOMAIN-SUFFIX,prod-data-energon.infra-ext.activision.com
+  - DOMAIN-SUFFIX,static.nvidiagrid.net
+  - DOMAIN-SUFFIX,store.cloudflare.steamstatic.com
   - DOMAIN-SUFFIX,login.live.com.com
-  - DOMAIN-SUFFIX,cloudflare.steamstatic
-  - DOMAIN-SUFFIX,twnic.tw
-  - DOMAIN-SUFFIX,symcb.com
+  - DOMAIN-SUFFIX,shared.cloudflare.steamstatic
+  - DOMAIN-SUFFIX,weezyblue-lobby.prod.demonware.net
 
-  - 101.101.101.101/22
-  - 8.8.4.4/22
+  - 101.101.101.101/24
+  - 8.8.4.4/24
