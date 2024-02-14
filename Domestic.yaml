@@ -315,7 +315,7 @@ payload:
   - IP-CIDR,1.255.62.0/24,no-resolve
 
   # > COD
-  - DOMAIN-SUFFIX,ngx.download.nvidia.com
+  - DOMAIN-SUFFIX,download.nvidia.com
   - DOMAIN-SUFFIX,weezyblue-lobby.prod.demonware.net
   - DOMAIN-SUFFIX,download.nvidia.com
   - DOMAIN-SUFFIX,jup-steam-loginservice.prod.demonware.net
@@ -328,8 +328,8 @@ payload:
   - DOMAIN-SUFFIX,dns.twnic.tw
   - DOMAIN-SUFFIX,s.symcb.com
 
-  - IP-CIDR,101.101.101.101/443
-  - IP-CIDR,8.8.4.4/853
+  - 101.101.101.101/443
+  - 8.8.4.4/853
   # > CN
   - DOMAIN-SUFFIX,gov.cn
   - DOMAIN-SUFFIX,cn
