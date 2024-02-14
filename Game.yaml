@@ -10,6 +10,7 @@ payload:
   - DOMAIN,login.live.com.com
   - DOMAIN,shared.cloudflare.steamstatic
   - DOMAIN,weezyblue-lobby.prod.demonware.net
+  - DOMAIN,genesis.stun.us.demonware.net
 
   - DOMAIN-KEYWORD,nvidia
 
